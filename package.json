@@ -1,0 +1,21 @@
+{
+  "name": "@nr2p/prettier-config",
+  "version": "1.0.0",
+  "description": "common prettier config",
+  "main": "index.js",
+  "keywords": [
+    "prettier-config"
+  ],
+  "author": "tto9208@gmail.com",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/prettier": "^3.0.0"
+  },
+  "peerDependencies": {
+    "@types/prettier": "^3.0.0",
+    "prettier": "^3.2.4"
+  }
+}
