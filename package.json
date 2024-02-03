@@ -1,6 +1,6 @@
 {
   "name": "@nr2p/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common prettier config",
   "main": "index.js",
   "keywords": [
@@ -15,7 +15,9 @@
     "@types/prettier": "^3.0.0"
   },
   "peerDependencies": {
-    "@types/prettier": "^3.0.0",
     "prettier": "^3.2.4"
+  },
+  "optionalDependencies": {
+    "@types/prettier": "^3.0.0"
   }
 }
